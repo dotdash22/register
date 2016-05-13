@@ -295,7 +295,7 @@ char getchar_eedata( char adress )
    H/L DB7|RC3                  RC2|H/L DB6
           |RC6                  RB4|H/L Register Select Signal
           |RC7               RB5/Rx|
-		  |RB7/Tx               RB6|Enable signal
+          |RB7/Tx               RB6|Enable signal
           |________________________| 
 		  
 */
